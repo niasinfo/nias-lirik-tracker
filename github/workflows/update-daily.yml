@@ -1,0 +1,34 @@
+
+name: Daily Update Lagu Nias
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Setiap hari jam 10:00 WIB
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run script
+      run: python scripts/fetch_youtube_data_daily.py
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add data/*
+        git commit -m "Update lagu Nias harian"
+        git push
