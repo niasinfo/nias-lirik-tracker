@@ -24,7 +24,7 @@ jobs:
 
     - name: Run scripts
       run: |
-        python scripts/fetch_youtube_data_daily.py
+        python scripts/fetch_youtube_data.py
         python scripts/fetch_chord_data.py
         python scripts/fetch_karaoke_data.py
         python scripts/fetch_additional_categories.py
