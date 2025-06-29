@@ -1,0 +1,38 @@
+name: Update Monthly
+
+permissions:
+  contents: write
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Export YouTube API Key
+        run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
+
+      - name: Install dependencies
+        run: pip install google-api-python-client
+
+      - name: Run script
+        run: python scripts/fetch_youtube_data_monthly.py
+
+      - name: Commit hasil ke repositori
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Update hasil pencarian lagu otomatis [skip ci]" || echo "Tidak ada perubahan"
+          git push
