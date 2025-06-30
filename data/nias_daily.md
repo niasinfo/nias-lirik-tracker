@@ -8,9 +8,9 @@
 6. [KUMPULAN LAGU NIAS SANTAI ANIS GEA TAHUN 2025](https://www.youtube.com/watch?v=zb9EHbmDImA) - GEA Musik
 7. [lagu nias populer!! menyentuh gati](https://www.youtube.com/watch?v=QmdQGBfp0BQ) - Anak rantau
 8. [Terbaru Lagu Nias || FA&#39;AFOKHO || Lya Farasi || Cipt. Restu J. Mend || Official Video](https://www.youtube.com/watch?v=GVLCd7yjegk) - RjM Nias
-9. [Karaoke Lagu Nias Sedih - Faomasi Ninagu || Dhut Remix Terbaru](https://www.youtube.com/watch?v=pZg4biAIhIo) - Rhiel Music
-10. [Full Album 2021 + Lirik (tanpa iklan) - Foiman Zega - Lagu Nias](https://www.youtube.com/watch?v=uxggPuOrRQE) - Musik Nostalgia
-11. [LAGU NIAS TERBARU | MAMA SA&#39;A NO ABASÖ | Wedi Harefa. Official Music dan Video](https://www.youtube.com/watch?v=2cUsqspReGQ) - SHF tube
+9. [HASARA DODO - Cipt. Yas Mendrofa - Lagu Dhut Remix Nias](https://www.youtube.com/watch?v=s-qSR2Aey5Q) - REDI MEDAN TV
+10. [LAGU NIAS TERBARU | MAMA SA&#39;A NO ABASÖ | Wedi Harefa. Official Music dan Video](https://www.youtube.com/watch?v=2cUsqspReGQ) - SHF tube
+11. [Full Album 2021 + Lirik (tanpa iklan) - Foiman Zega - Lagu Nias](https://www.youtube.com/watch?v=uxggPuOrRQE) - Musik Nostalgia
 12. [Sebua Gambaoho - Filda Zebua | Lagu Nias Terbaru 2025](https://www.youtube.com/watch?v=RLv9ymnbT8c) - Tube Nias
 13. [Duhu afato dodo - Yusman Lase | Lagu nias terbaru ( Official music video)](https://www.youtube.com/watch?v=ZVtyuJfGgEk) - Simple Music Nias
 14. [Kumpulan Lagu Nias Terbaru_Wanohu Fa&#39;omasi_Mado Waruwu_Fa&#39;afokho_Moroi Furimo](https://www.youtube.com/watch?v=kqnkqQt_huE) - RjM Nias
