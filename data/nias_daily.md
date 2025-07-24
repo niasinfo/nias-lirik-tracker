@@ -6,8 +6,8 @@
 4. [Faabolo dalu-dalu_Lagu Nias Terbaru_Daniel Folala Zalukhu _ Kumpulan Lagu Nias](https://www.youtube.com/watch?v=WJjl_X5VOIA) - RjM Nias
 5. [Lagu Nias Terbaru Daniel Folala Zalukhu _ ONO ZIBAYADA TALU _ Official Video](https://www.youtube.com/watch?v=04RXa_a2lXI) - RjM Nias
 6. [KUMPULAN LAGU NIAS SANTAI ANIS GEA TAHUN 2025](https://www.youtube.com/watch?v=zb9EHbmDImA) - GEA Musik
-7. [Topnya lagu Nias terbaru Sumatra Utara enak didengar yang bikin hati adem](https://www.youtube.com/watch?v=JAFHmB6le1U) - Soloria Adsense
-8. [UBUR-UBUR IKAN LELE_lagu nias terbaru _daniel Folala Zalukhu](https://www.youtube.com/watch?v=w8JHut3iWWs) - RjM Nias
+7. [UBUR-UBUR IKAN LELE_lagu nias terbaru _daniel Folala Zalukhu](https://www.youtube.com/watch?v=w8JHut3iWWs) - RjM Nias
+8. [Topnya lagu Nias terbaru Sumatra Utara enak didengar yang bikin hati adem](https://www.youtube.com/watch?v=JAFHmB6le1U) - Soloria Adsense
 9. [LAGU NIAS PALING BANYAK DICARI, 1 JAM FULL #lagunias #laguviral #vlogperjalanan #melodijelajah](https://www.youtube.com/watch?v=TrqUGeqJzSY) - Melodi Jelajah
 10. [Lagu Nias SAWAI KHONIA_Lagu Terbaru Daniel Folala Zalukhu_Saridewi Zalukhu_Official Video Original](https://www.youtube.com/watch?v=ovIsWBd9ino) - RjM Nias
 11. [Sebua Gambaoho - Filda Zebua | Lagu Nias Terbaru 2025](https://www.youtube.com/watch?v=RLv9ymnbT8c) - Tube Nias
