@@ -8,7 +8,7 @@
 6. [Lagu Nias Terbaru Daniel Folala Zalukhu _ ONO ZIBAYADA TALU _ Official Video](https://www.youtube.com/watch?v=04RXa_a2lXI) - RjM Nias
 7. [Topnya lagu Nias terbaru Sumatra Utara enak didengar yang bikin hati adem](https://www.youtube.com/watch?v=JAFHmB6le1U) - Soloria
 8. [KUMPULAN LAGU NIAS SANTAI ANIS GEA TAHUN 2025](https://www.youtube.com/watch?v=zb9EHbmDImA) - GEA Musik
-9. [KARAOKE Nias || Raya BA BINAKA Nada HD Berlirik](https://www.youtube.com/watch?v=t4WQZFkxijA) - Pelita Nias
+9. [LAGU NIAS TERBARU | RAYA BA BINAKA - Daniel Folala Zalukhu || LAGU NIAS VIRAL TERBARU 2025](https://www.youtube.com/watch?v=biYx8jgLfM8) - Gen 91 FM
 10. [UBUR-UBUR IKAN LELE_lagu nias terbaru _daniel Folala Zalukhu](https://www.youtube.com/watch?v=w8JHut3iWWs) - RjM Nias
 11. [Terbaru Lagu Nias || FA&#39;AFOKHO || Lya Farasi || Cipt. Restu J. Mend || Official Video](https://www.youtube.com/watch?v=GVLCd7yjegk) - RjM Nias
 12. [Duhu afato dodo - Yusman Lase | Lagu nias terbaru ( Official music video)](https://www.youtube.com/watch?v=ZVtyuJfGgEk) - Simple Music Nias
@@ -18,5 +18,5 @@
 16. [lagu nias populer!! menyentuh gati](https://www.youtube.com/watch?v=QmdQGBfp0BQ) - Anak rantau
 17. [No&#39;ufabu&#39;u - Vian Waruwu || Official video](https://www.youtube.com/watch?v=YG_-wtZbv6E) - GEA Musik
 18. [Faomasi Sahöwö - Vivi Gulo || Lirik Lagu Nias](https://www.youtube.com/watch?v=i5MzEbqNbCc) - SERVIS ZAI
-19. [BAYA SA TODOU NAYAUGO - FILDA ZEBUA | LAGU NIAS TERBARU](https://www.youtube.com/watch?v=Qcll6klnu9c) - Tube Nias
-20. [HUMOMBO LO GAFI - Junissan Ndraha (Lirik Video) | Heza mano olauõ | Lagu Nias favorit](https://www.youtube.com/watch?v=refb5WECoBI) - ASJ Tube
+19. [HUMOMBO LO GAFI - Junissan Ndraha (Lirik Video) | Heza mano olauõ | Lagu Nias favorit](https://www.youtube.com/watch?v=refb5WECoBI) - ASJ Tube
+20. [BAYA SA TODOU NAYAUGO - FILDA ZEBUA | LAGU NIAS TERBARU](https://www.youtube.com/watch?v=Qcll6klnu9c) - Tube Nias
