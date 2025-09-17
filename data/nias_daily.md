@@ -3,12 +3,12 @@
 1. [RAYA BA BINAKA - Daniel Folala Zalukhu - Lagu Nias terbaru - Official Video](https://www.youtube.com/watch?v=HPPaB3UoqBA) - RjM Nias
 2. [5 Lagu Nias Terbaru Original Pilihan Terbaik di 2022 | Tube Nias Music Video](https://www.youtube.com/watch?v=PD-jNenedRc) - Tube Nias
 3. [Lagu Nias Terbaru Daniel Folala Zalukhu _ ONO ZIBAYADA TALU _ Official Video](https://www.youtube.com/watch?v=04RXa_a2lXI) - RjM Nias
-4. [KUMPULAN LAGU NIAS SANTAI ANIS GEA TAHUN 2025](https://www.youtube.com/watch?v=zb9EHbmDImA) - GEA Musik
-5. [HUMOMBO LO GAFI - Junissan Ndraha (Lirik Video) | Heza mano olauõ | Lagu Nias favorit](https://www.youtube.com/watch?v=refb5WECoBI) - ASJ Tube
+4. [HUMOMBO LO GAFI - Junissan Ndraha (Lirik Video) | Heza mano olauõ | Lagu Nias favorit](https://www.youtube.com/watch?v=refb5WECoBI) - ASJ Tube
+5. [KUMPULAN LAGU NIAS SANTAI ANIS GEA TAHUN 2025](https://www.youtube.com/watch?v=zb9EHbmDImA) - GEA Musik
 6. [No&#39;ufabu&#39;u - Vian Waruwu || Official video](https://www.youtube.com/watch?v=YG_-wtZbv6E) - GEA Musik
-7. [Sebua Gambaoho - Filda Zebua | Lagu Nias Terbaru 2025](https://www.youtube.com/watch?v=RLv9ymnbT8c) - Tube Nias
-8. [LAGU NIAS TERBARU 2019  - TAOLINI WAOMASE - Yusman Lase &amp; Vivied Gulo](https://www.youtube.com/watch?v=0TG2KckWQq8) - Rosari Record
-9. [Karaoke Lagu Nias SIMOI MOLI-MOLI_Nada Cewek_Daniel Folala Zalukhu](https://www.youtube.com/watch?v=DdCP1gjO8DQ) - RjM Nias
+7. [LAGU NIAS TERBARU 2019  - TAOLINI WAOMASE - Yusman Lase &amp; Vivied Gulo](https://www.youtube.com/watch?v=0TG2KckWQq8) - Rosari Record
+8. [Sebua Gambaoho - Filda Zebua | Lagu Nias Terbaru 2025](https://www.youtube.com/watch?v=RLv9ymnbT8c) - Tube Nias
+9. [LAGU NIAS DUT REMIX ](https://www.youtube.com/watch?v=G4lkm2fEvvI) - LAGU NIAS TEMPO DULU
 10. [Lagu Nias Populer/ DUA FAKHE ZILALÖ / MONALISA ZALUKHU/ Cipt. Yas Zalukhu](https://www.youtube.com/watch?v=Y-4mL8kmb9E) - MANAJEMEN HARMONI OFFICIAL
 11. [UBUR-UBUR IKAN LELE_lagu nias terbaru _daniel Folala Zalukhu](https://www.youtube.com/watch?v=w8JHut3iWWs) - RjM Nias
 12. [S&#39;NADA TRIO || SIMANGA TODOGU|| CIPT. PASHA WARUWU||LAGU NIAS TERBARU 2025](https://www.youtube.com/watch?v=XdlNTCo4Yl4) - SNADA TRIO OFFICIAL
